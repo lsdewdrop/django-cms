@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+db.splite3
+.DS_Store
+django-cms-tutorial
